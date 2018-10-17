@@ -14,11 +14,12 @@ sudo nano index.md
 or
 
 download the file as ZIP, edit 'index.md' from your preferred text editors:
-*Atom
-*Vim
-*Sublime text
-*Vscode
-*etc...
+
+  *Atom
+  *Vim
+  *Sublime text
+  *Vscode
+  *etc...
 
 ### Seen:
 
