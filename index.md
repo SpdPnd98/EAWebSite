@@ -30,8 +30,8 @@ git add .
 git commit
 git push origin master
 ```
-
 or:
+
 go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find index.md and edit it straight away, adding your names below.
 =======
 
