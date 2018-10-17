@@ -34,10 +34,8 @@ git push origin master
 or
 
 go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find index.md and edit it straight away, adding your names below.
- 
-
 =======
->>>>>>> a8067eef1aa912138c0ff8b03dd163e6689481fb
+
 
 ### Seen:
 
