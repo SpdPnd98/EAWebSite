@@ -1,5 +1,4 @@
 # Bravo18
-----
 
 ## Hello world!
 
@@ -20,8 +19,6 @@ download the file as ZIP, edit 'index.md' from your preferred text editors:
   * Sublime text
   * Vscode
   * etc...
-<<<<<<< HEAD
-
 
 Update the files via one of the following methods:
 
@@ -34,7 +31,7 @@ or:
 
 go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find index.md and edit it straight away, adding your names below.
 
-====
+----
 
 ### Seen:
 
