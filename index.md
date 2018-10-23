@@ -37,6 +37,7 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 
 1. Bryan Tee Pak Hong 
 2. Chung Teik Lim
+3. Chua Wen jie Felix
 
 
 
