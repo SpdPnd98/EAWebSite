@@ -38,3 +38,7 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 1. Bryan Tee Pak Hong 
 2. Chung Teik Lim
 
+
+
+# Water Projects :
+Bryan: [DizzMe](https://spdpnd98.github.io/), A hackathon project with Team Sudo Coders under the guidance of Mr. Teo Shin Jen.
