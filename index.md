@@ -41,5 +41,17 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 
 
 
-# Water Projects :
+# Water Projects Suggestions:
 Bryan: [DizzMe](https://spdpnd98.github.io/), A hackathon project with Team Sudo Coders under the guidance of Mr. Teo Shin Jen.
+
+# Week 2 Assignment: 
+
+  * Look through the AVR and ADC slide:
+    * which ports are used?
+    * What is the command used to read the ADC?
+    * What is the resolution?
+    * How is voltage accuracy achieved?
+    * How fast are the ADC ports?
+  * Is a better ADC required? How fast does it need to be?
+  * A table for all specifications of the sensors.
+  
