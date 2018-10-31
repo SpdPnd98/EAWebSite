@@ -38,6 +38,7 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 1. Bryan Tee Pak Hong 
 2. Chung Teik Lim
 3. Chua Wen jie Felix
+4. Daichi Tan
 
 
 
@@ -54,4 +55,7 @@ Bryan: [DizzMe](https://spdpnd98.github.io/), A hackathon project with Team Sudo
     * How fast are the ADC ports?
   * Is a better ADC required? How fast does it need to be?
   * A table for all specifications of the sensors.
+  
+# Week 3 Assignment: 
+
   
