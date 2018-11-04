@@ -44,6 +44,7 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 
 # Water Projects Suggestions:
 Bryan: [DizzMe](https://spdpnd98.github.io/), A hackathon project with Team Sudo Coders under the guidance of Mr. Teo Shin Jen.
+
 Daichi: A musical instrument invented by the japanese, called "Suikinkutsu". Tuned and Automated to create a soothing tune.
 
 # Week 2 Assignment: 
