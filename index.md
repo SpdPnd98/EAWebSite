@@ -59,4 +59,9 @@ Daichi: A musical instrument invented by the japanese, called "Suikinkutsu". Tun
   
 # Week 3 Assignment: 
 
+ * Choose our final project using the selection below:
+   * holding drinks boat
+   * water instrument
+   * water trainer
+   * deployable life boat
   
