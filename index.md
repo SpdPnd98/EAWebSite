@@ -75,10 +75,10 @@ Electronic-wise, we identified the electronic component required for our project
 ## Boat:
 
 * Servo Motor (SG90): 2
-  * [link] (https://www.aliexpress.com/item/5-10pcs-lot-100-NEW-Wholesale-SG90-9G-Micro-Servo-Motor-For-Robot-6CH-RC-Helicopter/32864783539.html?spm=2114.search0104.3.8.36011930EVYvdC&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=72bf6552-53fa-44b0-88a2-f9297a3cf35b-1&algo_pvid=72bf6552-53fa-44b0-88a2-f9297a3cf35b)
+  * (link) [https://www.aliexpress.com/item/5-10pcs-lot-100-NEW-Wholesale-SG90-9G-Micro-Servo-Motor-For-Robot-6CH-RC-Helicopter/32864783539.html?spm=2114.search0104.3.8.36011930EVYvdC&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=72bf6552-53fa-44b0-88a2-f9297a3cf35b-1&algo_pvid=72bf6552-53fa-44b0-88a2-f9297a3cf35b]
 
 * DC Motor : 1 or 2
-  * https://www.aliexpress.com/item/25mm-12V-DC-5RPM-Powerful-High-Torque-Gear-Box-Motor-ZGA25RP/32684701655.html?spm=2114.search0104.3.1.1fba1dbd4jnxGE&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=04295e54-814d-479a-a19c-6d22723de4c2-0&algo_pvid=04295e54-814d-479a-a19c-6d22723de4c2
+  ] https://www.aliexpress.com/item/25mm-12V-DC-5RPM-Powerful-High-Torque-Gear-Box-Motor-ZGA25RP/32684701655.html?spm=2114.search0104.3.1.1fba1dbd4jnxGE&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=04295e54-814d-479a-a19c-6d22723de4c2-0&algo_pvid=04295e54-814d-479a-a19c-6d22723de4c2
 
 * Motor driver: 1
   * L298N module
