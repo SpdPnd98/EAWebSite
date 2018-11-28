@@ -111,3 +111,27 @@ Electronic-wise, we identified the electronic component required for our project
 * push buttons: 3
 
 * Raspberry pi/Arduino Mega: 1
+
+## Week 5
+
+
+## Week 6
+
+
+## Week 7
+Serial communication:
+When you see CTS, DTR RTS etc, the chip can be "programmed" with AT command sets
+
+Cheat sheet found: http://pressplay.pbworks.com/w/page/47221855/AT%20Command%20Cheat%20Sheet
+
+Mr. Rodney will be bringing about 20 ESP32 for us to use MicroPython
+
+Task for today: we need to select a communication method (WiFi, Bluetooth, Serial), then display the "results" (a display to see the conditions of the boat)
+
+Thingspeak demo: takes away the tedium of writing a data presentation method
+
+We are also tasked to watch the video on power.
+
+We must give torque, speed, power rating etc of the parts. This includes battery specifications etc. (Lipo batterries must have a charging unit built-in)
+
+Today's task: BOM
