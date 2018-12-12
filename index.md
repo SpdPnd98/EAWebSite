@@ -135,3 +135,10 @@ We are also tasked to watch the video on power.
 We must give torque, speed, power rating etc of the parts. This includes battery specifications etc. (Lipo batterries must have a charging unit built-in)
 
 Today's task: BOM
+
+
+
+## Term break
+### 12/12/2018
+Bryan Tee Pak Hong:
+
