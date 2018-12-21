@@ -142,3 +142,6 @@ Today's task: BOM
 ### 12/12/2018
 Bryan Tee Pak Hong:
 
+### 21/12/2018
+Daichi Tan: Team Bravo has Started on the Characterisation and calculation of a surface vessel's stability. We had finished it in the start of the term but we needed to make our boat more streamline. So we have decided to redo the boat.
+<img src="BoatSketch.jpg">
