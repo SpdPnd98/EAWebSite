@@ -145,3 +145,8 @@ Bryan Tee Pak Hong:
 ### 21/12/2018
 Daichi Tan: Team Bravo has Started on the Characterisation and calculation of a surface vessel's stability. We had finished it in the start of the term but we needed to make our boat more streamline. So we have decided to redo the boat.
 <img src="BoatSketch.jpg">
+
+### 01/02/2019
+Team Bravo has finished the Google Slides on the buoyancy experiment
+Links to the slides: https://docs.google.com/presentation/d/1vKs533fTxYvJOHl-CTRWlWQtzYydDGWarJUBO-LknRk/edit#slide=id.g278d73b18e10d00_47
+
