@@ -167,3 +167,5 @@ Team Bravo has finished the cricuitry of the Music and the Lights. As we were te
 
 ### 12/02/2019
 Team Bravo faced some difficulties with onboard motor driver. The motor driver is suspected to be fried due to the high current load of the submerged pumps underwater (0.4A no load, 1.5A with load), with the specs sheet detailing around 1.2A at max (3.0A for 20ms). We expected the motor driver to be able to overload but turns out it was a little too much. There was a major code change due to this as we switched over to an L298N as a temporary measure. Higher current consumption is to be expected. We will need tp revise our plans and take more consideration into our power consumptions in the future.
+
+Here is the link to our Final craft report [ https://spdpnd98.github.io/EAWebSite/BoatFinalReport/]
