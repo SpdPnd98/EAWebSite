@@ -28,6 +28,7 @@ Schematic of the circuit when simulated with a breadboard:
 <img src="images/capture 4.JPG" alt="schematic">
 
 code of the program:
+
 #define green 8
 
 #define lipo  A1
