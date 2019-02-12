@@ -5,9 +5,11 @@ Team Bravo has finished making the battery indicator of the lipo battery pack
 This battery indicator reads the voltage of the battery and shows its state by lighting up an LED in three different states
 
 When we measured the battery at full charge, it reads 11.1V
+
 We found that 3 batteries are in a lipo battery pack, hence the nominal voltage of one battery is 3.7V 
 
-Components needed: Stripboard
+Components needed: 
+                   Stripboard
                    Jumper wires
                    82k resistor
                    100k resistor 
