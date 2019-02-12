@@ -113,15 +113,15 @@ Electronic-wise, we identified the electronic component required for our project
 
 * Raspberry pi/Arduino Mega: 1
 
-## Week 5
+### Week 5
 This week, we were passed some miniature bilge pumps to cut with ultrasonic cutters.
 
 We were tasked to paste them onto out prototype boat from last week.
 
-## Week 6
+### Week 6
 We were educated on the different ways to select the best power amage,emt system based on our machine's application. Voltage regulators are not the only option when it comes to stepping down voltage. In fact, a better buck converter or a boost converter, or even a coupled buck/boost converter is more power efficient.
 
-## Week 7
+### Week 7
 Serial communication:
 When you see CTS, DTR RTS etc, the chip can be "programmed" with AT command sets
 
@@ -149,7 +149,7 @@ Bryan Tee Pak Hong: Team Bravo has revised ideas based on feedback from each ind
 Daichi Tan: Team Bravo has Started on the Characterisation and calculation of a surface vessel's stability. We had finished it in the start of the term but we needed to make our boat more streamline. So we have decided to redo the boat.
 <img src="BoatSketch.jpg">
 
-## Secon Term
+## Second Term
 ### 10/01/2019
 Bryan Tee Pak Hong: Mete up with Mr. Rodney to discuss on weight of power supply, boat communication techniques, displays for the boat, and motors used for the craft. The discussion was considered and success.
 
