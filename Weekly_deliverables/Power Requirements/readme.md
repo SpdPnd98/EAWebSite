@@ -21,7 +21,7 @@ We slowly increased the Voltage, recording the amount of amps needed to drive th
 
 As the spreadsheet shows, (A) increases as (V) increases. 1 interesting thing to note is that when voltage is at 1.5V the propellers did not rotate and power was at 0 Watts this is due to the insufficient voltage to drive the motors. 
 
-<img src = "Screenshot (6).png" style="width:100px;height:200px;">
+<img src = "Screenshot (6).png" style="width:100px;height:200px;"/>
 
 Once the voltage reached 2V the propellers started to rotate.
 
