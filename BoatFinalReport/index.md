@@ -68,10 +68,13 @@ In this project, there were many electrical parts as well as many functionality 
 The function of the bilge pump in this case is to propel; the boat
 Because the pump is already waterproofed, we decided to choose the bilge pump to cut down on time as well as the thrust it provides.
  
+ <img src = "21.png"/>
 The pump is cutted down, turning it into a motor essentially.
 The impeller is then swapped with that of a propeller to provide thrust to the boat.
 Due to the thrust provided by the pump, it is necessary to firmly secure the pump onto the boat . and to do that, theres a need to design a holder.
    
+   <img src = "22.png"/>
+   <img src = "23.png"/>
 The design for the bilge pump relies heavily on tension to keep the pump in place. As such, the threshold for tightening in this design is low. The diameter is just an mm off to account for shrinkage factor of the 3d printer.
 To tighten, bolt the bolt through the top 2 holes .
 To mount there are 4 holes at its base to mount the holder to the skeleton.
@@ -85,8 +88,10 @@ The 3 main parts for the cannon function:
 2.	diaphragm pump
 
 ##### 1.	servo
+<img src = "24.png"/>
  
 The servo is fitted into a water tight container, leaving the designed components out of the box that transfers the action of the servo to that of the cannon.
+<img src = "25.png"/>
  
 This design incorporated the given servo horn of the servo.
 This way it can be assured that the connecting rod(which turns and secure the cannon)
@@ -95,7 +100,7 @@ there’s a reducer attached to increase the pressure on the water being shot pu
 
 
 
-
+<img src = "26.png"/>
 
 
 
@@ -107,6 +112,7 @@ there’s a reducer attached to increase the pressure on the water being shot pu
 Now that the main structure of the cannon is explained, next would be the tube that’s connecting to it.
 There’s a slot in the pirate acrylic piece to accommodate for the swivel of the tubing that carries the water from the diaphragm pump to cannon. 
 ##### 2.	Diaphragm pump
+<img src = "27.png"/>
  
 The diaphragm pump is also waterproofed by putting it inside the main electronics box. The tubing is then fitted through the cable gland and out, intaking water from one side and the other to the cannon.
 The cable gland is sealed and waterproofed by using a sealant(will be discussed later during the waterproofing part)
@@ -117,11 +123,11 @@ The cable gland is sealed and waterproofed by using a sealant(will be discussed 
 Because the function of the boat is a party boat, there is a need to make the boat aseptically pleasing. As such, there is a need to design a structure to hide the not so pleasing parts( the main electronics box)
 
 Since the structure carrying hiding the electronics box would be big, the structure would also need to be able to carry the speakers as well as holes for the wires to branch out, ease of access to the water proof container and look aesthetically pleasing.
- 
+ <img src = "28.png"/>
 
 ##### 1.	Ease of access.
 
-   
+   <img src = "29.png"/>
 Though the structure is to hide the waterproof box, there is still a need to make the structure able to access the water container easily to tweak any electrical component when necessary.
 
 
@@ -129,12 +135,12 @@ Though the structure is to hide the waterproof box, there is still a need to mak
 
 
 ##### 2.	mounting of speakers
- 
+ <img src = "210.png"/>
  There are to holes to mount the speaker at the very top. 
 As the music is supposed to be for all to hear, there is a need to mount the speakers at the top to allow the music to reach as many ears as the speaker allows.
 
 ##### 3.	Aesthetically pleasing
- 
+ <img src = "211.png"/>
 There the inclusions of stairs to try to make it more pleasing
 
 
