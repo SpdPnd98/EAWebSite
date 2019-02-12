@@ -3,7 +3,7 @@
 ### Fabrication of the aluminium frame
 We salvaged profiles from the previous project and used the hacksaw to get aluminium profiles with length of 350mm and 230mm. We used 2 of 400mm, 2 of 250mm and 2 of 230mm aluminium profiles. We used mushroom head screws to secure the profiles in place by positioning it with holes drilled along the profile.
 
-<img src = "aluminiumProfile.jpg"/>
+<img src = "aluminiumProfile.JPG"/>
 <img src = "aluminium bar.JPG"/>
 <img src = "bolts.jpg"/>
 
@@ -20,7 +20,7 @@ We used a 20 mm drill bit as it was the size of the profile which also meant tha
 Figure 3 <img src = "Figure3.JPG"/>
 Figure 4 <img src = "Figure4.JPG"/>
 
-Cutting the actual bluefoam<img src  ="cuttingtheactualfoam.JPG"/>
+Cutting the actual bluefoam<img src  ="cuttingtheactualfoam.jpg"/>
 
 #### Holes fabrication
 We used a 4 mm drill bit with the same rpm but the rate of decent was slow so as to prevent any damage to the surrounding and to prevent the hole from expanding. To be more precise so as to fit the acrylic perfectly, we continued with the milling machine instead of using the hand drill with manually marking it out with a ruler and tri-square. The dimensions are below.
@@ -32,7 +32,7 @@ Bottom piece <img src = "bottomPiece.JPG"/>
 We decided that using the wire cutter will be faster than milling the holes in figure 5 as it was already in 2. As we wanted to create more tension to hold the containers in place, we created a tightening strip as shown in figure 6. This shape was used to allow more compressive forces produced by the container.
 
 Figure 5 <img src = "Figure5.JPG"/>
-Figure 6 <img src = "Figure6.JPG"/>
+Figure 6 <img src = "Figure6.jpg"/>
 
 #### Curves fabrication
 We used the wire cutter to cut a rough estimate along the curve offsetting 3-5 mm from the actual curve so as to ensure that the wire’s variable tension throughout the process does not affect the cut. Then we used the orbital sander to sand it down as it will be smoother, and we can use it along the acrylic piece as a guide. This process was done after the acrylic piece was laser cut. 
