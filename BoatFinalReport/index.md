@@ -30,9 +30,36 @@ Bottom piece <img src = "bottomPiece.JPG"/>
 
 #### Container holes fabrication
 We decided that using the wire cutter will be faster than milling the holes in figure 5 as it was already in 2. As we wanted to create more tension to hold the containers in place, we created a tightening strip as shown in figure 6. This shape was used to allow more compressive forces produced by the container.
+
 Figure 5 <img src = "Figure5.JPG"/>
 Figure 6 <img src = "Figure6.JPG"/>
 
 #### Curves fabrication
 We used the wire cutter to cut a rough estimate along the curve offsetting 3-5 mm from the actual curve so as to ensure that the wire’s variable tension throughout the process does not affect the cut. Then we used the orbital sander to sand it down as it will be smoother, and we can use it along the acrylic piece as a guide. This process was done after the acrylic piece was laser cut. 
+
 <img src = "curvesfabrication.JPG"/>
+
+#### Fabrication of the acrylic piece
+We used the laser cutter to fabricate the following holes and shape which aided in cutting the shape we wanted for the blue foam.
+
+<img src = "fabricationoftheacrylicpieces.JPG"/>
+
+### Fabrication of components
+
+We have 3D printed these components
+
+- brackets
+- SPeaker holder
+- main cannon and holder
+- Pirate with the wheel
+- Crew with treasure chest
+- staircase with wooden crates
+- cannons on the outer
+- Bilge pump holder
+
+<img src = "all_pictures.jped"/>
+
+We printed and painted all of these characters with a pirate theme in mind. The paint used is insoluble in water. One of the core components is the Main canon and the holder which is connected to the servo. The Bilge pump holder is also another core part in delivering the proper thrust needed.
+
+
+<img src = "all_pictures.jpg"/>
