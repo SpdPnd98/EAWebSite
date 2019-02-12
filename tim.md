@@ -25,7 +25,9 @@ Since 11.1V cannot be supplied to the analog pin of the arduino, we have decided
 
 Schematic of the circuit when simulated with a breadboard:
 
-#define green 8
+<img src="image/capture 4.jpg" alt="schematic">
+
+```#define green 8
 
 #define lipo  A1
  
@@ -68,4 +70,6 @@ if(lipoV>899 && lipoV<1023){
   digitalWrite(green, LOW);    
   delay(1000);    
 }
-}
+}```
+
+
