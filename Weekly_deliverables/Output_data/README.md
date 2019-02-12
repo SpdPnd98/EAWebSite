@@ -12,3 +12,6 @@ Based on our estimations, we will need:
 - servo motors
 
 Details are noted in the wishlist.
+
+# DACs
+We have briefly discussed the possibility of using sensors to get value to drive the Motor. The degree of control in a prototype need not be very accurate, and hence can be substituted by PWM signals instead.
