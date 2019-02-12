@@ -9,10 +9,15 @@ When we measured the battery at full charge, it reads 11.1V
 We found that 3 batteries are in a lipo battery pack, hence the nominal voltage of one battery is 3.7V 
 
 Components needed: 
+                   
                    Stripboard
+                   
                    Jumper wires
+                   
                    82k resistor
+                   
                    100k resistor 
+                   
                    1 green led 
                    
 
