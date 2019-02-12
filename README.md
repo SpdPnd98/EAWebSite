@@ -3,6 +3,9 @@
 Please enter this link to view web page of team Bravo18
 https://spdpnd98.github.io/EAWebSite/
 
+Please enter this link to view our final report on our water project:
+ https://spdpnd98.github.io/EAWebSite/BoatFinalReport/
+
 Note: This Repository is a work in progress. We will continually update what we have learnt on the webpage.
 
 # Manual of Water craft:
