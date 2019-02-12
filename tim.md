@@ -77,5 +77,7 @@ if(lipoV>899 && lipoV<1023){
 From the code and schematic,
 
 when the voltage is between 4.39 volts and 5 volts, the led turns on for 1s and off for 1s, indicating that the battery is fully charged
+
 when the voltage is between 4.10 volts and 4.39 volts, the led turns on for 0.5s and off for 0.5s, indicating that the battery is half charged
+
 when the voltage is between 3.8 volts and 4.10 volts, the led turns on for 0.25s and off for 0.25s, indicating that the battery is low in charge, prompting the user to charge the battery
