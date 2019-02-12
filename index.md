@@ -1,6 +1,7 @@
 # Bravo18
 
-## Hello world!
+## First Term (Learning)
+### Hello world!
 
 This is a test paragraph. If you see it please enter your names below.
 You can add your names by either:
@@ -33,7 +34,7 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 
 ----
 
-### Seen:
+#### Seen:
 
 1. Bryan Tee Pak Hong
 2. Chung Teik Lim
@@ -42,12 +43,12 @@ go to [this](https://github.com/SpdPnd98/EAWebSite) repository and simply find i
 
 
 
-# Water Projects Suggestions:
+### Water Projects Suggestions:
 Bryan: [DizzMe](https://spdpnd98.github.io/), A hackathon project with Team Sudo Coders under the guidance of Mr. Teo Shin Jen.
 
 Daichi: A musical instrument invented by the japanese, called "Suikinkutsu". Tuned and Automated to create a soothing tune.
 
-# Week 2 Assignment:
+### Week 2 Assignment:
 
   * Look through the AVR and ADC slide:
     * which ports are used?
@@ -58,7 +59,7 @@ Daichi: A musical instrument invented by the japanese, called "Suikinkutsu". Tun
   * Is a better ADC required? How fast does it need to be?
   * A table for all specifications of the sensors.
 
-# Week 3 Assignment:
+### Week 3 Assignment:
 
  * Choose our final project using the selection below:
    * holding drinks boat
@@ -66,13 +67,13 @@ Daichi: A musical instrument invented by the japanese, called "Suikinkutsu". Tun
    * water trainer
    * deployable life boat
 
-# Week 4 Assignment:
+### Week 4 Assignment:
 
 This week, we start to design a boat and find at what angle the boat topples
 
 Electronic-wise, we identified the electronic component required for our project:
 
-## Boat:
+#### Boat:
 
 * Servo Motor (SG90): 2
   * [link](https://www.aliexpress.com/item/5-10pcs-lot-100-NEW-Wholesale-SG90-9G-Micro-Servo-Motor-For-Robot-6CH-RC-Helicopter/32864783539.html?spm=2114.search0104.3.8.36011930EVYvdC&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=72bf6552-53fa-44b0-88a2-f9297a3cf35b-1&algo_pvid=72bf6552-53fa-44b0-88a2-f9297a3cf35b)
@@ -103,7 +104,7 @@ Electronic-wise, we identified the electronic component required for our project
 
 
 
-## Kiosk/Checkpoint:
+#### Kiosk/Checkpoint:
 
 * OLED/Touchscreen/2x16LCD: 1
   * [link](https://www.aliexpress.com/item/2-4inch-TFT-Touch-Screen-Shield-for-Arduino-UNO-R3-LCD-Modules-Display-Modules/32778794737.html?spm=2114.search0104.3.15.523029fa05Hv9i&ws_ab_test=searchweb0_0,searchweb201602_2_10065_10068_319_317_5728815_10696_10084_453_454_10083_10618_10307_537_536_5733215_5733315_328_10059_10884_10887_5733115_100031_5733415_321_322_10103_5733515_5733615,searchweb201603_55,ppcSwitch_0&algo_expid=b6f7f744-b60d-4d08-a7bd-9daa7503f427-2&algo_pvid=b6f7f744-b60d-4d08-a7bd-9daa7503f427)
@@ -113,10 +114,12 @@ Electronic-wise, we identified the electronic component required for our project
 * Raspberry pi/Arduino Mega: 1
 
 ## Week 5
+This week, we were passed some miniature bilge pumps to cut with ultrasonic cutters.
 
+We were tasked to paste them onto out prototype boat from last week.
 
 ## Week 6
-
+We were educated on the different ways to select the best power amage,emt system based on our machine's application. Voltage regulators are not the only option when it comes to stepping down voltage. In fact, a better buck converter or a boost converter, or even a coupled buck/boost converter is more power efficient.
 
 ## Week 7
 Serial communication:
@@ -140,11 +143,15 @@ Today's task: BOM
 
 ## Term break
 ### 12/12/2018
-Bryan Tee Pak Hong:
+Bryan Tee Pak Hong: Team Bravo has revised ideas based on feedback from each individual of the team. We have finalized the functionality of the boat, mechanisms of the boat, andoverall shape of the boat.
 
 ### 21/12/2018
 Daichi Tan: Team Bravo has Started on the Characterisation and calculation of a surface vessel's stability. We had finished it in the start of the term but we needed to make our boat more streamline. So we have decided to redo the boat.
 <img src="BoatSketch.jpg">
+
+## Secon Term
+### 10/01/2019
+Bryan Tee Pak Hong: Mete up with Mr. Rodney to discuss on weight of power supply, boat communication techniques, displays for the boat, and motors used for the craft. The discussion was considered and success.
 
 ### 31/01/2019
 Team Bravo has finished the Google Slides on the buoyancy experiment
@@ -156,5 +163,7 @@ Team Bravo has started the research on the Music and LED code. Many of the Codes
 The code of the RGB LED Strip is a simple code using a transistor and the pwn pins on the arduino to control the intensity of each light, giving us the different colours.
 
 ### 08/02/2019
-Team Bravo has finished the cricuitry of the Music and the Lights. As we were testing the servo of the cannon we realised that everytime the servo moved, the lights would flicker and the music will repeat itself. We did some testing and we realised the servo was causing a voltage drop due to the heavy load. This phenomenon is called "Brown Out", where the arduino will reset itself and hence the music and lights reset causing the observation. We planned to solve this by seperating the power supply of the servo and microcontroller.
+Team Bravo has finished the cricuitry of the Music and the Lights. As we were testing the servo of the cannon we realised that everytime the servo moved, the lights would flicker and the music will repeat itself. We did some testing and we realised the servo was causing a voltage drop due to the heavy load. This phenomenon is called "Brown Out", where the arduino will reset itself and hence the music and lights reset causing the observation. We planned to solve this by seperating the power supply of the servo from the microcontroller.
 
+### 12/02/2019
+Team Bravo faced some difficulties with onboard motor driver. The motor driver is suspected to be fried due to the high current load of the submerged pumps underwater (0.4A no load, 1.5A with load), with the specs sheet detailing around 1.2A at max (3.0A for 20ms). We expected the motor driver to be able to overload but turns out it was a little too much. There was a major code change due to this as we switched over to an L298N as a temporary measure. Higher current consumption is to be expected. We will need tp revise our plans and take more consideration into our power consumptions in the future.
