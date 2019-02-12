@@ -4,8 +4,8 @@
 We salvaged profiles from the previous project and used the hacksaw to get aluminium profiles with length of 350mm and 230mm. We used 2 of 400mm, 2 of 250mm and 2 of 230mm aluminium profiles. We used mushroom head screws to secure the profiles in place by positioning it with holes drilled along the profile.
 
 <img src = "aluminiumProfile.JPG"/>
-<img src = "aluminium bar.JPG"/>
-<img src = "bolts.JPG"/>
+<img src = "aluminium bar.jpg"/>
+<img src = "bolts.jpg"/>
 
 ### Fabrication of the blue foam
 
@@ -60,6 +60,3 @@ We have 3D printed these components
 <img src = "all_pictures.jped"/>
 
 We printed and painted all of these characters with a pirate theme in mind. The paint used is insoluble in water. One of the core components is the Main canon and the holder which is connected to the servo. The Bilge pump holder is also another core part in delivering the proper thrust needed.
-
-
-<img src = "all_pictures.jpg"/>
