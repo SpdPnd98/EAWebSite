@@ -125,3 +125,35 @@ Our results are similar.
 
 # Reading Voltage with ADC and a voltage divider circuit.
 
+We have briefly discussed the possibility of using this to create a battery indicator. However, with further thoughts we have placed it as a backup plan as it consumes uneccessary power. It would be better to use a voltage sensor and a current sensor to detect the power output of a motor.
+
+[Here](https://www.instructables.com/id/Arduino-AnalogRead-Serial-With-Potentiometer/) is the link we followed. 
+
+Note: we were aware of the similarity of a potentiometer and a voltage divider. At that time, a potentiometer made an easier and cleaner circuit for demonstration purposes.
+
+```
+/ This example code is in the public domain
+
+void setup() {
+
+Serial.begin(9600);
+
+}
+
+void loop() {
+
+int sensorValue = analogRead(A0);
+
+Serial.println(sensorValue);
+
+delay(1);
+
+}
+```
+
+# Deciding on what sensors we require
+Below are the sensors we think we will need (idea of boat is in ideation progress)
+- voltage sensor
+- current sensor
+- ultrasonic sensor
+- infra-red sensor
