@@ -42,8 +42,8 @@ void loop() {
   delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
-}```
-
+}
+```
 # Performing digital reading from DIP switches
 
 This step requires a dip switch, a few wires and a few LEDs. We followed a [simple tutorial](https://www.tinkerhobby.com/arduino-led-control-using-dip-switch/) found in the public domain.
