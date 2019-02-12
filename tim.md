@@ -25,7 +25,7 @@ Since 11.1V cannot be supplied to the analog pin of the arduino, we have decided
 
 Schematic of the circuit when simulated with a breadboard:
 
-<img src="image/capture 4.JPG" alt="schematic">
+<img src="images/capture 4.JPG" alt="schematic">
 
 ```#define green 8
 
