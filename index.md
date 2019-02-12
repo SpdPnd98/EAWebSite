@@ -151,6 +151,8 @@ Team Bravo has finished the Google Slides on the buoyancy experiment
 
 Links to the slides: https://docs.google.com/presentation/d/1vKs533fTxYvJOHl-CTRWlWQtzYydDGWarJUBO-LknRk/edit#slide=id.g278d73b18e10d00_47
 
+### 02/02/2019
+Team Bravo has started the research on the Music and LED code. Many of the Codes has been written online. Music:( https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299). LED: (https://learn.adafruit.com/adafruit-arduino-lesson-3-rgb-leds/arduino-sketch). This helped us save a lot of time. The <b>FNM16P</b> we were using is an MP3 Module that reads an SD card and outputs music signals (different frequencies of square waves) to the speakers. (MUSIC CODE) The code given by 'DFrobot' allowed us to track on the serial monitor the status of the MP3 Module like playback issues, previous and next song and Time Out.
 
 ### 08/02/2019
 Team Bravo has finished the cricuitry of the Music and the Lights (image of circuit). As we were testing the servo of the cannon we realised that everytime the servo moved, the lights would flicker and the music will repeat itself. We did some testing and we realised the servo was causing a voltage drop due to the heavy load. This phenomenon is called "Brown Out", where the arduino will reset itself and hence the music and lights reset causing the observation. We planned to solve this by seperating the power supply of the servo and microcontroller.
