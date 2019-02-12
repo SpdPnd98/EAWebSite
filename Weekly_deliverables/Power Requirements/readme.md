@@ -1,4 +1,4 @@
-#Power Requirements
+# Power Requirements
 
 During lesson we were thought the importance and the method to calculate total power consumption.
 
