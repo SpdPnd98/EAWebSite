@@ -151,3 +151,7 @@ Team Bravo has finished the Google Slides on the buoyancy experiment
 
 Links to the slides: https://docs.google.com/presentation/d/1vKs533fTxYvJOHl-CTRWlWQtzYydDGWarJUBO-LknRk/edit#slide=id.g278d73b18e10d00_47
 
+
+### 08/02/2019
+Team Bravo has finished the cricuitry of the Music and the Lights (image of circuit). As we were testing the servo of the cannon we realised that everytime the servo moved, the lights would flicker and the music will repeat itself. We did some testing and we realised the servo was causing a voltage drop due to the heavy load. This phenomenon is called "Brown Out", where the arduino will reset itself and hence the music and lights reset causing the observation. We planned to solve this by seperating the power supply of the servo and microcontroller.
+
