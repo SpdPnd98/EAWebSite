@@ -119,9 +119,10 @@ void loop() {
   Serial.print(s5state);
   Serial.print(s6state);
   Serial.println();
-}```
+}
+```
 
-Our results are similar.
+Our results are similar as the tutorial's.
 
 # Reading Voltage with ADC and a voltage divider circuit.
 
@@ -131,8 +132,8 @@ We have briefly discussed the possibility of using this to create a battery indi
 
 Note: we were aware of the similarity of a potentiometer and a voltage divider. At that time, a potentiometer made an easier and cleaner circuit for demonstration purposes.
 
-```
-/ This example code is in the public domain
+
+```// This example code is in the public domain
 
 void setup() {
 
@@ -157,3 +158,5 @@ Below are the sensors we think we will need (idea of boat is in ideation progres
 - current sensor
 - ultrasonic sensor
 - infra-red sensor
+
+We are unable to come out with any specifications at this stage as our project ideas are not yet finalized.
