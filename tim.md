@@ -21,7 +21,7 @@ Components needed:
                    1 green led 
                    
 
-Since 11.1V cannot be supplied to the analog pin of the arduino, we have decided to build a voltage divider with two resistors
+Since 11.1V cannot be supplied to the analog pin of the arduino because the pins can only receive an input of maximum 5 volts, we have decided to build a voltage divider with two resistors
 
 Schematic of the circuit when simulated with a breadboard:
 
@@ -83,5 +83,5 @@ When the voltage is between 4.10 volts and 4.39 volts, the led turns on for 0.5s
 When the voltage is between 3.8 volts and 4.10 volts, the led turns on for 0.25s and off for 0.25s, indicating that the battery is low in charge, prompting the user to charge the battery
 
 <video width="320" height="240" controls>
-<source src="videos/WhatsApp Video 2019-02-11 at 20.31.08.MP4" type="video/mp4">
+<source src="videos/WhatsApp Video 2019-02-11 at 20.31.08.mp4" type="video/mp4">
 </video>
