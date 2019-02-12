@@ -81,3 +81,6 @@ when the voltage is between 4.39 volts and 5 volts, the led turns on for 1s and 
 when the voltage is between 4.10 volts and 4.39 volts, the led turns on for 0.5s and off for 0.5s, indicating that the battery is half charged
 
 when the voltage is between 3.8 volts and 4.10 volts, the led turns on for 0.25s and off for 0.25s, indicating that the battery is low in charge, prompting the user to charge the battery
+
+
+<source src="videos/WhatsApp Video 2019-02-11 at 20.31.08.MP4" >
