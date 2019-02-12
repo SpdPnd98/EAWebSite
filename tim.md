@@ -27,7 +27,8 @@ Schematic of the circuit when simulated with a breadboard:
 
 <img src="images/capture 4.JPG" alt="schematic">
 
-```#define green 8
+code of the program:
+#define green 8
 
 #define lipo  A1
  
@@ -71,5 +72,4 @@ if(lipoV>899 && lipoV<1023){
   delay(1000);    
 }
 }```
-
 
