@@ -242,12 +242,12 @@ However, upon being advised to characterize the pumps and electronics by Mr. Rod
 - ```High pressure caravan pump``` : 0.6A @ 12 V
 - ```LED strips``` : 1.15A @ 12V
 - ```Bilge pump``` : 0.4 - 1.5 A @ 12 V
-- ```High torque servo`` : 0.6 - 1.0 A @ 6V
+- ```High torque servo``` : 0.6 - 1.0 A @ 6V
 - ```System Idle``` : 0.16A @ 12V
 
 Since
 
-``` total power dissipation = sum of individual power dissipation/consumption ''' 
+``` total power dissipation = sum of individual power dissipation/consumption ``` 
 
 and 
 
@@ -256,4 +256,11 @@ and
 Hence, the "theoretical practical power dissipation" is:
 
 ``` Total Power = 0.3 * 6 + 0.6 * 12 + 1.15 * 12 + 1.5 * 12 + 1 * 6 + 0.16 * 12```
-``` Total Power = ```
+``` Total Power = 36 W```
+
+If everything runs at full power for the whole duration @ 12 V, assume chips can operate for the full duration, the ship will be able to run for around 20 mins.
+
+However, our final iteration uses the L298N and 3 voltage regulators. Hence with the power dissipation increasing and converting as heat, it will reach a dangerous temperature. We have only tested moderate using (medium powered lights with occasional movements and shoots around 5 times per minute), the boat is able to stay in the water for at least 3-5 minutes.
+
+The program logic is as follows:
+
