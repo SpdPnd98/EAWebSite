@@ -5,8 +5,7 @@ When we first came up with the idea of the party boat we had to list out our con
 
 <img src = "Functional Requirements.png"/>
 
-For our Functional Requirements it was mostly mechanical requirements and calculations that allow us to
-
+<img src = "Constraints.png"/>
 
 ### Shape:
 We started with a rectangular shape at first as we felt it allowed the most efficient use of space. On top of that, it  was the most common type of shape that blue foam was sold at.
