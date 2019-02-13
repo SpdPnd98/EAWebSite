@@ -223,3 +223,37 @@ We have 3D printed these components
 <img src = "all_pictures.jpg"/>
 
 We printed and painted all of these characters with a pirate theme in mind. The paint used is insoluble in water. One of the core components is the Main canon and the holder which is connected to the servo. The Bilge pump holder is also another core part in delivering the proper thrust needed.
+
+
+# Power Consumption
+
+## Initial power consumption
+
+Initially, we followed the specifications of the pumps online to do a brief calculations. The values did not make much sense but here it is:
+- ```mp3 module``` : 0.6 A @ 5 V
+- ```High pressure caravan pump``` : 6.0 A @ 12 V
+- ```LED strips``` : 1.96W/meter (3 meters)
+- ``Bilge pump``` : 3.0 A @ 12 V
+- ```High torque servo''' : 3.3kg @ 6 V
+
+However, upon being advised to characterize the pumps and electronics by Mr. Rodney on 10th January 2018, below are our findings
+
+- ```mp3 moduel``` : 0.3 A @ 6 V
+- ```High pressure caravan pump``` : 0.6A @ 12 V
+- ```LED strips``` : 1.15A @ 12V
+- ```Bilge pump``` : 0.4 - 1.5 A @ 12 V
+- ```High torque servo`` : 0.6 - 1.0 A @ 6V
+- ```System Idle``` : 0.16A @ 12V
+
+Since
+
+``` total power dissipation = sum of individual power dissipation/consumption ''' 
+
+and 
+
+``` P = I * V ```
+
+Hence, the "theoretical practical power dissipation" is:
+
+``` Total Power = 0.3 * 6 + 0.6 * 12 + 1.15 * 12 + 1.5 * 12 + 1 * 6 + 0.16 * 12```
+``` Total Power = ```
