@@ -270,4 +270,36 @@ If everything runs at full power for the whole duration @ 12 V, assume chips can
 However, our final iteration uses the L298N and 3 voltage regulators. Hence with the power dissipation increasing and converting as heat, it will reach a dangerous temperature. We have only tested moderate using (medium powered lights with occasional movements and shoots around 5 times per minute), the boat is able to stay in the water for at least 3-5 minutes.
 
 The program logic is as follows:
+(image insert in future)
 
+# Reflection of motor boat:
+## What we did right:
+- fabrication techniques of boat
+- logical programming of boat
+- team effort in building craft
+- calculation to ensure floating of craft
+- power calculation
+
+## What we did wrong:
+- did not set proper specs for water craft (no means to check if he craft was built successfully)
+- did not check what power is best to run all motors (only fast, but did not check efficiency of boat, did not optimize power consumption etc)
+
+## Response
+- The claimed current consumption was too low.
+
+We attempted to re-characterize the motors and found out 2 new findings:
+1. different propellors affect the current consumption due to the amount of torque it requires
+2. the current draw limit will affect the potential difference between the 2 terminals of the motor. This means the rest of the potential difference will be wasted on any regulator/step down/voltage divider circuit in between the battery and motor.
+
+Below are the new findings, and new estimated current and power draw, each at different minimum and maximum values.
+
+### Max performance of craft
+- ```mp3 module``` : 0.3 A @ 6 V (unchanged as current passes through a voltage regulator) 
+- ```High pressure caravan pump``` : 0.6A @ 12 V (unchanged)
+- ```LED strips``` : 1.15A @ 12V (unchanged as at 12V the led strips still run at around 1.15A)
+- ```Bilge pump``` : 0.4 - 1.8 A @ 12 V (the maximum value increases due to a switch of propellors)
+- ```High torque servo``` : 0.6 - 1.0 A @ 6V (unchanged as current passes through a voltage regulator)
+- ```System Idle``` : 0.16A @ 12V (unchanged)
+
+### Min performance of craft
+- ```High pressure caravan pump``` : 
