@@ -324,29 +324,65 @@ The program logic is as follows:
 - did not check what power is best to run all motors (only fast, but did not check efficiency of boat, did not optimize power consumption etc)
 
 ## What we could have improved:
--we could have lower the cg more by adding a centreboard at the bottom, as it would act as a  ballast, providing even more stability
+- we could have lower the cg more by adding a centreboard at the bottom, as it would act as a ballast, providing even more stability
+- we could have found the absolute minimum and maximum voltage the motor runs and check the thrust it produces, then plot a graph of thrust vs power to find the point of <b>highest efficiency</b> (highest power to thrust ratio) to optimize the battery power consumption while maintaining the lifespan of the motor.
 
 ## Response
 - The claimed current consumption was too low.
 
-We attempted to re-characterize the motors and found out 2 new findings:
-1. different propellors affect the current consumption due to the amount of torque it requires
+We attempted to re-characterize the motors and found that:
+1. different propellors affect the current consumption due to the amount of torque required
 2. the current draw limit will affect the potential difference between the 2 terminals of the motor. This means the rest of the potential difference will be wasted on any regulator/step down/voltage divider circuit in between the battery and motor.
 
-Below are the new findings, and new estimated current and power draw, each at different minimum and maximum values.
+Below are the new findings, and new estimated current and power draw, each at different minimum and maximum values. We took the craft's minimum power supply voltage and tested the current draw at that state. The minimum current draw of 3S lipo
 
 ### Max performance of craft
-- ```mp3 module``` : 0.3 A @ 6 V (unchanged as current passes through a voltage regulator) 
+- ```mp3 module``` : 0.3 A @ 12 V (unchanged as current passes through a voltage regulator)* 
 - ```High pressure caravan pump``` : 0.6A @ 12 V (unchanged)
 - ```LED strips``` : 1.15A @ 12V (unchanged as at 12V the led strips still run at around 1.15A)
 - ```Bilge pump``` : 0.4 - 1.8 A @ 12 V (the maximum value increases due to a switch of propellors)
-- ```High torque servo``` : 0.6 - 1.0 A @ 6V (unchanged as current passes through a voltage regulator)
-- ```System Idle``` : 0.16A @ 12V (unchanged)
+- ```High torque servo``` : 0.6 - 1.0 A @ 12V (unchanged as current passes through a 6 voltage regulator)*
+- ```System Idle``` : 0.16A @ 12V (unchanged)*
 
 ### Min performance of craft
-- ```High pressure caravan pump``` : 
+- ```mp3 module``` : 0.32 A @ 11.45 V (unchanged as current passes through a voltage regulator)* 
+- ```High pressure caravan pump``` : 0.5 A @ 11.45V 
+- ```LED strips``` : 0.9A @ 11.45
+- ```Bilge pump``` : 1.25A @ 11.45V
+- ```High torque servo``` : 0.6 - 1.05 A @ 11.45V (unchanged as current passes through a voltage regulator)*
+- ```System Idle``` : 0.16A @ 12V (unchanged)*
+
+*these values are taken from the power supply, hence include the power consumption of voltage regulators
+
+Note: These values are reflective w.r.t. newly set spec sheets, they do not reflect the absolute minimum/maximum of the craft. We can find those values by setting voltage at ```12.6V``` and ```9.0V``` respectively as 3 cell Series lipo is said to be fully charged at ```12.6V``` and fully discharge at ```9.0V``` respectively. It is however possible to have a check of lipo voltage before running the boat such that the boat can match our specs while do not run if it is running out of our specified specs.
+
+### Power consumption details
+
+Below is the method we have used to calculate power consumption:
+
+Since
+
+``` total power dissipation = sum of individual power dissipation/consumption ``` 
+
+and 
+
+``` P = I * V ```
+
+Hence, the maximum power dissipation is:
+
+``` Total Power = 0.3 * 12 + 0.6 * 12 + 1.15 * 12 + 1.8 * 12 * 2 + 1 * 12 + 0.16 * 12```
+``` Total Power = 3.6 + 7.2 + 13.8 + 43.2 + 12 + 1.92```
+``` Total Power = 81.72W```
+``` current draw = 6.81A```
+
+the minimum power dissipation is: 
+
+``` Total Power = 0.3 * 6 + 0.6 * 12 + 1.15 * 12 + 1.8 * 12 * 2 + 1 * 6 + 0.16 * 12```
+``` Total Power = 1.8 + 7.2 + 13.8 + 43.2 + 6 + 1.28```
+``` Total Power = 62.17W```
+``` current draw = 5.43A```
 
 ### Program flow 
-Please refer to the actual program in the repository. However, here is the flow chart of the program itself.
+Please refer to the actual program in the repository.
 
 <image src = "EA_program flow.png"/>
