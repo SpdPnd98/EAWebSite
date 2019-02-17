@@ -57,7 +57,7 @@ As such we have decide to use to blue foam as our choice of material as we decid
 ### Calculations
 #### Fb calculations
 <img src = "fb 1.jpeg"/>
-<img src = "fb3.jpeg"/>
+<img src = "fb3.jpg"/>
 <img src = "fb2.jpeg"/>
 
 #### Drag calculations
