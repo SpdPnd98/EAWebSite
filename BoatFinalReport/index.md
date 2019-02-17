@@ -323,6 +323,9 @@ The program logic is as follows:
 - did not set proper specs for water craft (no means to check if he craft was built successfully)
 - did not check what power is best to run all motors (only fast, but did not check efficiency of boat, did not optimize power consumption etc)
 
+## What we could have improved:
+-we could have lower the cg more by adding a centreboard at the bottom, as it would act as a  ballast, providing even more stability
+
 ## Response
 - The claimed current consumption was too low.
 
