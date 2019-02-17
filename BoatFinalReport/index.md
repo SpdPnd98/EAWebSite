@@ -150,10 +150,14 @@ As the music is supposed to be for all to hear, there is a need to mount the spe
  <img src = "211.png"/>
 There the inclusions of stairs to try to make it more pleasing
 
+### Full Design of the boat
+<img src = "inventor boat.PNG"/>
+<img src = "boat drawing.PNG"/>
 
 
 
 ## Fabrication Process
+Now that the desgin has been finalised and fully cadded out, we can den fabricate easily
 ### Fabrication of the aluminium frame
 We salvaged profiles from the previous project and used the hacksaw to get aluminium profiles with length of 350mm and 230mm. We used 2 of 400mm, 2 of 250mm and 2 of 230mm aluminium profiles. We used mushroom head screws to secure the profiles in place by positioning it with holes drilled along the profile.
 
