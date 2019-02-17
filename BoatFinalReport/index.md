@@ -3,9 +3,9 @@
 
 When we first came up with the idea of the party boat we had to list out our contraints and functional requirements of our boat. This was done not only to ensure everyone on the team had a common goal but also know about every specificationn of the ship.
 
-<img src = "requiremnets 1.Png"/>
+<img src = "requiremnets 1.PNG"/>
 
-<img src = "Constraints.png"/>
+<img src = "onstraints.png"/>
 
 ### Shape:
 We started with a rectangular shape at first as we felt it allowed the most efficient use of space. On top of that, it  was the most common type of shape that blue foam was sold at.
