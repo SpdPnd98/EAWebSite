@@ -302,6 +302,7 @@ and
 Hence, the "theoretical practical power dissipation" is:
 
 ``` Total Power = 0.3 * 6 + 0.6 * 12 + 1.15 * 12 + 1.5 * 12 + 1 * 6 + 0.16 * 12```
+
 ``` Total Power = 36 W```
 
 If everything runs at full power for the whole duration @ 12 V, assume chips can operate for the full duration, the ship will be able to run for around 20 mins.
@@ -371,15 +372,21 @@ and
 Hence, the maximum power dissipation is:
 
 ``` Total Power = 0.3 * 12 + 0.6 * 12 + 1.15 * 12 + 1.8 * 12 * 2 + 1 * 12 + 0.16 * 12```
+
 ``` Total Power = 3.6 + 7.2 + 13.8 + 43.2 + 12 + 1.92```
+
 ``` Total Power = 81.72W```
+
 ``` current draw = 6.81A```
 
 the minimum power dissipation is: 
 
 ``` Total Power = 0.3 * 6 + 0.6 * 12 + 1.15 * 12 + 1.8 * 12 * 2 + 1 * 6 + 0.16 * 12```
+
 ``` Total Power = 1.8 + 7.2 + 13.8 + 43.2 + 6 + 1.28```
+
 ``` Total Power = 62.17W```
+
 ``` current draw = 5.43A```
 
 ### Program flow 
