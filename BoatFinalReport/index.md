@@ -345,3 +345,8 @@ Below are the new findings, and new estimated current and power draw, each at di
 
 ### Min performance of craft
 - ```High pressure caravan pump``` : 
+
+### Program flow 
+Please refer to the actual program in the repository. However, here is the flow chart of the program itself.
+
+<image src = "EA_program flow.png"/>
