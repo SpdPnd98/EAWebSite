@@ -54,6 +54,15 @@ Would’ve sealed the tube, trapping the air, using the trapped air as buoyancy
 -	Prone to water corrosion
 As such we have decide to use to blue foam as our choice of material as we decided that its pros far out weigh its cons as well as it fits into our aim of a party boat, allow buoyancy without any weird n awkward shapes like pvcs.
 
+### Calculations
+#### Fb calculations
+<img src = "fb 1.jpeg"/>
+<img src = "fb3.jpeg"/>
+<img src = "fb2.jpeg"/>
+
+#### Drag calculations
+<img src = "67c6654d-1057-4967-bc8f-72c64834fef3.jpg"/>
+
 ### Structure:
 So for this boat, I have categorise the structures into 5 main parts,
 This is there’s a distribution of workload of the items itself and to ensure that if one component fails, the other wouldn’t
