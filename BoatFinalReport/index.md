@@ -3,7 +3,7 @@
 
 When we first came up with the idea of the party boat we had to list out our contraints and functional requirements of our boat. This was done not only to ensure everyone on the team had a common goal but also know about every specificationn of the ship.
 
-<img src = "Functional Requirements.png"/>
+<img src = "requiremnets 1.Png"/>
 
 <img src = "Constraints.png"/>
 
