@@ -244,6 +244,32 @@ We have 3D printed these components
 
 We printed and painted all of these characters with a pirate theme in mind. The paint used is insoluble in water. One of the core components is the Main canon and the holder which is connected to the servo. The Bilge pump holder is also another core part in delivering the proper thrust needed.
 
+# Assembly
+Assembly:
+For the waterproofing, 
+<img src = "1.png"/>
+ 
+We have used a silicone seal to seal up the cable glands at the spot where the gland comes into contact on the inner and outer side of the container. By sealing both sides, this would prevent water from leaking into the container, keeping the electronics in the box dry.
+
+To waterproof the lEDs, 
+<img src = "2.png"/>
+ 
+We have fed it through a tube and sealed the ends with silicone and liquid tape
+<img src = "3.png"/>
+<img src = "4.png"/>
+   
+Due to the nature of both liquid tape and acrylic sealant being waterproof
+
+
+Assembly of characters
+To asssemble the characters, as the acrylic is smooth, even though the super glue is very adhesive, it may not provide enough adhesion to the acrylic base as the base area of some of the characters are very small.
+<img src = "5.png"/>
+ 
+So to increase adhesive strength, we have decided to make scratch marks(using a file) on the smooth acrlic, enabling the glue to stick btr to the acrylic due to the now rough surface.
+ <img src = "6.png"/>
+
+
+
 
 # Power Consumption
 
