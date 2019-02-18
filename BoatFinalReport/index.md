@@ -280,7 +280,7 @@ Initially, we followed the specifications of the pumps online to do a brief calc
 - ```High pressure caravan pump``` : 6.0 A @ 12 V
 - ```LED strips``` : 1.96W/meter (3 meters)
 - ``Bilge pump``` : 3.0 A @ 12 V
-- ```High torque servo''' : 3.3kg @ 6 V
+- ```High torque servo``` : 3.3kg @ 6 V
 
 However, upon being advised to characterize the pumps and electronics by Mr. Rodney on 10th January 2018, below are our findings
 
